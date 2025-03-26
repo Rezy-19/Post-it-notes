@@ -1,3 +1,7 @@
+*.db
+__pycache__/
+
+
 # Logs
 logs
 *.log
